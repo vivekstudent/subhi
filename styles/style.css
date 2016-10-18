@@ -15,3 +15,14 @@
     width: 70%;
     margin: auto;
 }
+.tCen{
+	text-align:center;
+}
+#slogan{
+	padding:20px;
+	background-color:#b02755;
+	color:white;
+	width:70%;
+	margin:auto;
+	font-size:15px;
+}
